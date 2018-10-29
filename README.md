@@ -4,7 +4,7 @@ This is 3D graphically “realistic” representation that we could have from
 inside a maze in a subjective view. This representation useses
 Ray-Casting principles. SDL2 is used as graphical library here.
 
-# usage
+## usage
 On Mac Os
 ```bash
 git clone https://github.com/iradchenua/wolf3d.git somewhere/wolf3d
@@ -14,7 +14,7 @@ make
 enjoy ^^^
 ```
 
-# map definition
+## map definition
 The map file is a simple text file with following lines: <br />
 <pre>
 h w <br />
