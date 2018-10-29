@@ -16,12 +16,14 @@ enjoy ^^^
 
 # map definition
 The map file is a simple text file with following lines: <br />
+<pre>
 h w <br />
 B00 ..... B0w-1 <br />
-.&npsp;     .    . <br />
-.&npsp;      Bij&npsp;  . <br />
-.&npsp;          .&npsp;  . <br />
+.    .    . <br />
+.     Bij . <br />
+.      .  . <br />
 Bh-10 ..... Bh-1w-1 <br />
+</pre>
 where h - height of the map, 0 < h <= 40, w - widht of the map, 0 < w <= 40 <br />
 Bij is in {0,..,11,x} 0 <= i < h, 0 <= j < w <br />
 x is player <br />
