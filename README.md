@@ -18,9 +18,9 @@ enjoy ^^^
 The map file is a simple text file with following lines: <br />
 h w <br />
 B00 ..... B0w-1 <br />
-.    .    . <br />
-.     Bij . <br />
-.      .  . <br />
+.&npsp;     .    . <br />
+.&npsp;      Bij&npsp;  . <br />
+.&npsp;          .&npsp;  . <br />
 Bh-10 ..... Bh-1w-1 <br />
 where h - height of the map, 0 < h <= 40, w - widht of the map, 0 < w <= 40 <br />
 Bij is in {0,..,11,x} 0 <= i < h, 0 <= j < w <br />
