@@ -30,3 +30,11 @@ x is player <br />
 number is box type 0 - no box, 11 - special box with differrent 4 sides <br />
 to see other wall type look textures/(type - 1).bmp <br />
 To move in the map use arrows, left shift to acceleration <br />
+
+## Screnshots
+
+### map1 test file
+![map1](https://github.com/iradchenua/wolf3d/blob/master/wolf1.png)
+
+### maze file
+![maze](https://github.com/iradchenua/wolf3d/blob/master/wolf2.png)
