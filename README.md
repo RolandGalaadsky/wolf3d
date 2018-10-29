@@ -8,7 +8,7 @@ Ray-Casting principles. SDL2 is used as graphical library here.
 On Mac Os
 ```bash
 git clone https://github.com/iradchenua/wolf3d.git somewhere/wolf3d
-cd wolf3d
+cd somewhere/wolf3d
 make
 ./wolf3d tests/some_map
 enjoy ^^^
