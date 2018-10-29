@@ -15,7 +15,7 @@ enjoy ^^^
 ```
 
 # map definition
-The map file is a simple text file with following lines:
+The map file is a simple text file with following lines: <br />
 h w <br />
 B00 ..... B0w-1 <br />
 .    .    . <br />
